@@ -1,0 +1,7 @@
+Pequeño tutorial de como iniciar el servidor.
+1) Instala los archivos del git.
+2) Abre la terminal que mas te guste. En mi caso, usé el CMD del sistema.
+3) Usa el comando "cd desktop/Cafetería_API" . Esto en caso de que lo hayas ubicado a la API en el escritorio, Sino vas a tener que ir a la ubicacion donde lo tengas
+4) Ahora corre el comando "npm run dev". Y ya debería estar el servidor en el puesto 3000. comprabalo con este link en el navegador: http://localhost:3000/
+
+-Brandon Rendon
